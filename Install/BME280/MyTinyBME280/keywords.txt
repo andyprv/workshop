@@ -1,0 +1,86 @@
+#######################################
+# Syntax Coloring Map For MyAttinyBME280
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MyAttinyBME280	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isReady	KEYWORD2
+init	KEYWORD2
+startSingleMeas	KEYWORD2
+readTemp	KEYWORD2
+readPress	KEYWORD2
+readHumidity	KEYWORD2
+readReducedPress	KEYWORD2
+setMode	KEYWORD2
+setTempOversampling	KEYWORD2
+setPressOversampling	KEYWORD2
+setHumidityOversampling	KEYWORD2
+setStandbyTime	KEYWORD2
+setFilterCoeff	KEYWORD2
+readControlReg	KEYWORD2
+readConfigReg	KEYWORD2
+readHumidityControlReg	KEYWORD2
+setWeatherMonitoring	KEYWORD2
+setHumiditySensing	KEYWORD2
+setIndoorNavigation	KEYWORD2
+setGaming	KEYWORD2
+reset	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TW_I	LITERAL1
+SP_I	LITERAL1
+NORMAL_MODE	LITERAL1
+FORCED_MODE	LITERAL1
+SLEEP_MODE	LITERAL1
+T_OVERSAMPLING_x0	LITERAL1
+T_OVERSAMPLING_x1	LITERAL1
+T_OVERSAMPLING_x2	LITERAL1
+T_OVERSAMPLING_x4	LITERAL1
+T_OVERSAMPLING_x8	LITERAL1
+T_OVERSAMPLING_x16	LITERAL1
+P_OVERSAMPLING_x0	LITERAL1
+P_OVERSAMPLING_x1	LITERAL1
+P_OVERSAMPLING_x2	LITERAL1
+P_OVERSAMPLING_x4	LITERAL1
+P_OVERSAMPLING_x8	LITERAL1
+P_OVERSAMPLING_x16	LITERAL1
+H_OVERSAMPLING_x0	LITERAL1
+H_OVERSAMPLING_x1	LITERAL1
+H_OVERSAMPLING_x2	LITERAL1
+H_OVERSAMPLING_x4	LITERAL1
+H_OVERSAMPLING_x8	LITERAL1
+H_OVERSAMPLING_x16	LITERAL1
+STANDBY_TIME_0p5	LITERAL1
+STANDBY_TIME_62p5	LITERAL1
+STANDBY_TIME_125	LITERAL1
+STANDBY_TIME_250	LITERAL1
+STANDBY_TIME_500	LITERAL1
+STANDBY_TIME_1000	LITERAL1
+STANDBY_TIME_10	LITERAL1
+STANDBY_TIME_20	LITERAL1
+FILTER_COEFF_0	LITERAL1
+FILTER_COEFF_2	LITERAL1
+FILTER_COEFF_4	LITERAL1
+FILTER_COEFF_8	LITERAL1
+FILTER_COEFF_16	LITERAL1
+
+
+
+
+
