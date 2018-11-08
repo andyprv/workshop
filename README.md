@@ -8,8 +8,11 @@
 <!-- TITLE: Arduino Workshop -->
 <!-- SUBTITLE: A quick summary of Arduino -->
 
-# <img src="pic/arduino_logo.png" width="90" height="60" /> Workshop
- 
+# <img src="https://raw.github.com/andyprv/workshop/master/Resources/pic/arduino_logo.png" width="90" height="60" /> Workshop
+
+# <img src="https://raw.github.com/andyprv/workshop/master/pic/servo-pulse.jpg" width="90" height="60" /> Workshop
+
+# <img src="/pic/servo-pulse.jpg" width="90" height="60" /> Workshop
 
 ---
 
