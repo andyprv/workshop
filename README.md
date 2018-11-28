@@ -8,7 +8,7 @@
 <!-- TITLE: Arduino Workshop -->
 <!-- SUBTITLE: A quick summary of Arduino -->
 
-# <img src="https://raw.github.com/andyprv/workshop/master/Resources/pic/arduino_logo.png" width="90" height="60" /> Workshop
+# <img src="https://raw.github.com/andyprv/workshop/master/pic/arduino_logo.png" width="90" height="60" /> Workshop
 
 
 ---
