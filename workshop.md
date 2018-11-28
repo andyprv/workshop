@@ -455,6 +455,9 @@ Serial.begin(9600);
 
 https://arduino-projekte.webnode.at/meine-libraries/luftdruck-luftfeuchtesensor-bme280/
 
+https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout?view=all
+
+
 Fast kompatibel zum Luftdrucksensor BMP280 der Firma Bosch (siehe hier), 
 gibt der BME280 neben dem gemessenen Luftdruck und der Umgebungstemperatur auch 
 die Luftfeuchtigkeit als Rohwert aus, wobei die Ausgabe wahlweise über 
@@ -464,19 +467,11 @@ Mit Hilfe von 18 im Sensor gespeicherten Kompensationsparametern kann dann aus d
 der Luftdruck am Standort (Stationsniveauluftdruck), 
 die Luftfeuchte und die Umgebungstemperatur ermittelt werden.
 
-<img src="pic/BME280 Mini_Breakout_s.jpg" width="140" height="200" /> 
+<img src="pic/BME280_Mini_Breakout.jpg" width="140" height="200" /> 
 
 BME280 Mini_Breakout_s.jpg
 
 
-```arduino
-
-
-
-```
-
-
----
 ---
 # Ausblick nächster Workshop
 
